@@ -1,5 +1,5 @@
 # RockPaperScissor
-### player1 :- user and player2 :- computer
+### Player1 :- You and Player2 :- Computer
 ### play it enjoy it
 # Live At
 ## https://shekhutsav1962001.github.io/RockPaperScissor/
